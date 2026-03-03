@@ -1,17 +1,5 @@
-const readline = require("readline");
-const resta = require("./resta");
+function resta(a, b) {
+    return a - b;
+}
 
-const rl = readline.createInterface({
-    input: process.stdin,
-    output: process.stdout
-});
-
-rl.question("Ingrese el primer número: ", (num1) => {
-    rl.question("Ingrese el segundo número: ", (num2) => {
-
-        const resultado = resta(parseFloat(num1), parseFloat(num2));
-        console.log("Resultado:", resultado);
-
-        rl.close();
-    });
-});
+module.exports = resta;

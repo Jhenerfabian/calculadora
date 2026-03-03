@@ -1,0 +1,12 @@
+*   [33m659ce8d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Merge branch 'resta':wq
+[31m|[m[32m\[m  
+[31m|[m * [33mccff1d4[m[33m ([m[1;32mresta[m[33m)[m Implementación resta con entrada de usuario
+* [32m|[m [33m288d91f[m[33m ([m[1;32msuma[m[33m)[m Implementación suma con entrada de usuario
+[32m|[m[32m/[m  
+[32m|[m * [33m21705b9[m[33m ([m[1;31morigin/resta[m[33m)[m Se agrega archivo util.js a la rama resta
+[32m|[m * [33m845d2cb[m Implementación funcional de resta con archivo separado
+[32m|[m[32m/[m  
+[32m|[m * [33m8454ff1[m[33m ([m[1;31morigin/suma[m[33m)[m Se elimina resta.js de la rama suma
+[32m|[m * [33m30cdca3[m Implementación funcional de suma con archivo separado
+[32m|[m[32m/[m  
+* [33m0a03d1a[m[33m ([m[1;31morigin/main[m[33m)[m Versión base limpia en main
